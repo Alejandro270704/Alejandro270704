@@ -1,7 +1,3 @@
-<!-- Encabezado animado -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hola%2C+soy+Alejandro+S%C3%A1nchez;Desarrollador+de+Software;Apasionado+por+crear+experiencias+digitales" alt="Typing SVG" />
-</h1>
 
 ---
 
@@ -55,3 +51,4 @@ Actualmente desarrollo proyectos enfocados en **fortalecer mis habilidades** y a
 <div align="center">
 
 ⭐ *“La mejor manera de aprender a programar es construyendo cosas.”*  
+
